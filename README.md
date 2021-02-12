@@ -19,6 +19,10 @@ Website link: https://github.com/mamohamed252/SBA-HTML-CSS-JS
 
 - carrot.html will have a picture of for the recipe and information about how to prepare the recipe as well as how to cook the recipe.
 
+- randomMeal.html will generate random meal recipe once button is clicked on. An email forum will ask user to enter their email to sign up for more recipes. Once user validation is met, the will go to another page for successful field. Otherwise the will be alerted to follow correct format.
+
+- signUpDone.html will have a gif to show user entered valid email with regex.
+
 **Technical requirements?**
 ###
 HTML
@@ -35,7 +39,7 @@ CSS
 
 Inline, internal, and external styling
 Use five different CSS selectors
-Don’t use too many fonts
+Donï¿½t use too many fonts
 Use colors that complement each other
 Use Flexbox (Optional)
 Use SASS/SCSS (Optional)
